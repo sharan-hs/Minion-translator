@@ -1,0 +1,19 @@
+#input-txt {
+    height: 15vh;
+    width: 80%;
+    display: block;
+    margin: 1.5rem;
+    padding: 1.5rem;
+}
+
+.output-heading {
+    font-size: larger;
+}
+
+#output {
+    border: 1px solid black;
+    height: 15vh;
+    width: 80%;
+    margin: 1.5rem;
+    padding: 1.5rem;
+}
